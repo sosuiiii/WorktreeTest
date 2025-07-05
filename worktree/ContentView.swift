@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 struct LiquidGlassView: View {
     @State private var animationOffset: CGFloat = 0
     @State private var touchLocation: CGPoint = .zero
